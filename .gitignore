@@ -1,0 +1,12 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+/target
+*.classes
+.classpath
+.project
+.settings/
+.DS_Store
+*.log
+.idea
+.idea/*
+atlassian-ide-plugin.xml
+*.bak
